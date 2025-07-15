@@ -107,3 +107,4 @@ Defined in the `:root` for easy theming:
 
 - Challenge and design inspiration from [Frontend Mentor](https://www.frontendmentor.io/).
 - Icons from the provided assets.
+
